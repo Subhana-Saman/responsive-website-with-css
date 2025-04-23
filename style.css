@@ -1,4 +1,4 @@
-*{
+8*{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -126,8 +126,8 @@ body{
         gap: 1px;
     }
      .navbar>img{
-         margin-left:0px;
-         width:70px ;
+         left:0px;
+         width:50px ;
      }
    
   
