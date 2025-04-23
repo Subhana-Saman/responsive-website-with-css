@@ -122,7 +122,7 @@ body{
     }
     .navbar ul{
         flex-direction: row;
-        justify-content: flex-end;
+        justify-content: right;
         gap: 2px;
     }
    
